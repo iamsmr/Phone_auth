@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34006358946",
+    "firebase_url": "https://sameer-flutter-practice.firebaseio.com",
+    "project_id": "sameer-flutter-practice",
+    "storage_bucket": "sameer-flutter-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34006358946:android:ee532d52ab9653f0ee30fb",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34006358946-akk5l22698ve9bjfirg0lpnh3oekvmlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6E5Tk9I2MKoX0cScNfrSTfRRh850EIHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34006358946-akk5l22698ve9bjfirg0lpnh3oekvmlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
